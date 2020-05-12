@@ -1,6 +1,6 @@
 # Notes App
 
-## Description
+### Description
 
 JavaScript note-taking application.
 
